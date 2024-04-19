@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/2e81ec0fe76b49e48c3c6bc639f12c8a/artifacts
+deleted_time: 1712925336652
+end_time: 1712923076635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2e81ec0fe76b49e48c3c6bc639f12c8a
+run_name: persistent-fish-475
+run_uuid: 2e81ec0fe76b49e48c3c6bc639f12c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712923072084
+status: 3
+tags: []
+user_id: '45911'

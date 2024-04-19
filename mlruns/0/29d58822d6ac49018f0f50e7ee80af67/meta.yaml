@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/29d58822d6ac49018f0f50e7ee80af67/artifacts
+deleted_time: 1712925336634
+end_time: 1712922747631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 29d58822d6ac49018f0f50e7ee80af67
+run_name: thundering-cow-38
+run_uuid: 29d58822d6ac49018f0f50e7ee80af67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712922736879
+status: 3
+tags: []
+user_id: '45911'
