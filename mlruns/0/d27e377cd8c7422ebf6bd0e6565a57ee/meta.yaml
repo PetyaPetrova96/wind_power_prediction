@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/d27e377cd8c7422ebf6bd0e6565a57ee/artifacts
+deleted_time: 1713981185027
 end_time: 1712925499269
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d27e377cd8c7422ebf6bd0e6565a57ee
 run_name: Lin_regre_1feature_Speed
 run_uuid: d27e377cd8c7422ebf6bd0e6565a57ee

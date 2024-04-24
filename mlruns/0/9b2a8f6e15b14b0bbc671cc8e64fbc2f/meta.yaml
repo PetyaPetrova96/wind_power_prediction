@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/9b2a8f6e15b14b0bbc671cc8e64fbc2f/artifacts
+deleted_time: 1713981185026
 end_time: 1712925563274
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9b2a8f6e15b14b0bbc671cc8e64fbc2f
 run_name: Lin_regre_1feature_Direction
 run_uuid: 9b2a8f6e15b14b0bbc671cc8e64fbc2f

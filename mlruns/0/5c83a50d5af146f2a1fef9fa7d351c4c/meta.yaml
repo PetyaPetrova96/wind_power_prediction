@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/5c83a50d5af146f2a1fef9fa7d351c4c/artifacts
+deleted_time: 1713986398024
+end_time: 1713986306600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5c83a50d5af146f2a1fef9fa7d351c4c
+run_name: Lin_regre_1feature_Speed
+run_uuid: 5c83a50d5af146f2a1fef9fa7d351c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713986304664
+status: 3
+tags: []
+user_id: '45911'

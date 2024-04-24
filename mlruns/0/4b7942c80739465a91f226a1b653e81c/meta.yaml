@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/4b7942c80739465a91f226a1b653e81c/artifacts
+deleted_time: 1713981185100
+end_time: 1713817093802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4b7942c80739465a91f226a1b653e81c
+run_name: RandomForest_Model
+run_uuid: 4b7942c80739465a91f226a1b653e81c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713817090194
+status: 3
+tags: []
+user_id: '45911'

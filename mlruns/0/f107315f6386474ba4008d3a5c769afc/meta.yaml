@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/f107315f6386474ba4008d3a5c769afc/artifacts
+deleted_time: 1713981185126
+end_time: 1713902112290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f107315f6386474ba4008d3a5c769afc
+run_name: KNN_Model
+run_uuid: f107315f6386474ba4008d3a5c769afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713902107242
+status: 3
+tags: []
+user_id: '45911'
