@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/f8ce000516fc4bd6ad0251b039accbad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8ce000516fc4bd6ad0251b039accbad
+run_name: salty-rook-960
+run_uuid: f8ce000516fc4bd6ad0251b039accbad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714135249913
+status: 1
+tags: []
+user_id: '45911'

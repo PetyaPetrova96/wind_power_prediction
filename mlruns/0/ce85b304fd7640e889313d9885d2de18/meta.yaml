@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/45911/Desktop/DataScience/Semester4/lsda/Assign%202/mlruns/0/ce85b304fd7640e889313d9885d2de18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce85b304fd7640e889313d9885d2de18
+run_name: fun-finch-586
+run_uuid: ce85b304fd7640e889313d9885d2de18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714136580158
+status: 1
+tags: []
+user_id: '45911'

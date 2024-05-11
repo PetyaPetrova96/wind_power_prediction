@@ -1,0 +1,7 @@
+name: my_model
+
+conda_env: conda.yml
+
+entry_points:
+    main:
+     command: "python_file.py"
